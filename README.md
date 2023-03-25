@@ -19,5 +19,5 @@ In conclusion, our DALL-E clone website is a great tool for anyone interested in
 ![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739649-ca8a4e1a-7d04-4859-984c-f9527656e1ca.png)
 
 ### Image generator page
-![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739649-ca8a4e1a-7d04-4859-984c-f9527656e1ca.png)
+![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739728-e8804311-3732-436a-9602-8c3258afcb3e.png)
 
