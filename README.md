@@ -14,3 +14,10 @@ We have also used Three.js to provide a 3D viewing experience for our generated 
 To ensure that our website is visually appealing and responsive, we have used Tailwind, a utility-first CSS framework.
 
 In conclusion, our DALL-E clone website is a great tool for anyone interested in generating unique and creative images using the latest AI technology. Join us today and explore the endless possibilities.
+
+### Home
+![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739649-ca8a4e1a-7d04-4859-984c-f9527656e1ca.png)
+
+### Image generator page
+![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739649-ca8a4e1a-7d04-4859-984c-f9527656e1ca.png)
+
