@@ -15,6 +15,18 @@ To ensure that our website is visually appealing and responsive, we have used Ta
 
 In conclusion, our DALL-E clone website is a great tool for anyone interested in generating unique and creative images using the latest AI technology. Join us today and explore the endless possibilities.
 
+### To setup 
+
+1. ```
+npm intall
+```
+
+2.```
+npm start
+```
+
+
+
 ### Home
 ![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739649-ca8a4e1a-7d04-4859-984c-f9527656e1ca.png)
 
