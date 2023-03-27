@@ -17,11 +17,13 @@ In conclusion, our DALL-E clone website is a great tool for anyone interested in
 
 ### To setup 
 
-1. ```
+1. 
+```
 npm intall
 ```
 
-2.```
+2.
+```
 npm start
 ```
 
