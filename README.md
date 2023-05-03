@@ -36,5 +36,5 @@ npm start
 ![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227739728-e8804311-3732-436a-9602-8c3258afcb3e.png)
 
 ### Site
-https://dall-e-clone1.netlify.app/create-post
+https://dall-e-clone1.netlify.app/
 
